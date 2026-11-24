@@ -5,7 +5,7 @@
     
     <!-- Header / Bagian Kiri -->
     <div style="background: #0f172a; padding: 40px; text-align: center; color: white;">
-        <img src="<?= base_url('uploads/img/') ?>" alt="Abdul" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 4px solid #3b82f6; margin-bottom: 20px;">
+        <img src="<?= base_url('uploads/img/wildan1.png') ?>" alt="Abdul" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 4px solid #3b82f6; margin-bottom: 20px;">
         <h1 style="margin: 0 0 10px 0; font-size: 2rem;">Wildan Azmi Muzaki</h1>
         <p style="color: #60a5fa; font-size: 18px; font-weight: 600; margin-bottom: 20px;">Frontend Developer</p>
         
