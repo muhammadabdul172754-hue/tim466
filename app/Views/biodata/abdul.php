@@ -1,4 +1,4 @@
-<?= $this->extend('layouts/main') ?>
+<?= $this->extend('layouts/main_public') ?>
 
 <?= $this->section('content') ?>
 <div style="max-width: 900px; margin: 50px auto; background: white; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); overflow: hidden;" data-aos="fade-up">
